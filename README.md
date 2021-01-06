@@ -1,6 +1,6 @@
 # This is a simple Tic-Tac-Toe game
 
-##### features included
+#### features included
 
 1. one player or two player can play this game.
 2. it is terminal based game. player can play this game in his desktop.
