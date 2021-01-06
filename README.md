@@ -1,5 +1,5 @@
 # This is a simple Tic-Tac-Toe game
-<br/>
+
 ##### features included
 
 1. one player or two player can play this game.
@@ -11,7 +11,7 @@
 	4. player symbol(X, O) is randomly choosen by this App.
 	5. player can choose their simbol position by presing any number between 1 to 9.
 	6. any wrong input can end this game.
-<br/>
+
 #### Technology used
 
 1. java 
